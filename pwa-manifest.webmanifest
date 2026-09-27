@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "RED VELVET CINEMA · 韩睿专属放映会",
+  "short_name": "专属放映会",
+  "description": "一场只属于你的私人电影放映会，支持离线再次打开。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#050303",
+  "theme_color": "#050303",
+  "icons": [
+    {
+      "src": "./pwa-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "version": "f21d44505feea840",
+  "files": [
+    "assets/BufferGeometryUtils-DtOhYK-r.js",
+    "assets/GiftRoomScene-CoYu8iq9.js",
+    "assets/Lightformer-DoVPN4bG.js",
+    "assets/MusicBoxScene-CDRmZXq_.js",
+    "assets/ObjectStage-DNIqMDQV.js",
+    "assets/ProjectorScene-BGfQF3qN.js",
+    "assets/RoundedBox-C19oAuGn.js",
+    "assets/TheaterRoom-Rgwrjvl9.js",
+    "assets/index-CE_9hWOT.js",
+    "assets/index-CQ86EiJR.css",
+    "assets/useCursor-Ch5rmAFl.js",
+    "index.html",
+    "pwa-icon.svg",
+    "pwa-manifest.webmanifest"
+  ]
+}
